@@ -54,7 +54,9 @@ Ne disposant pas encore d’expérience en entreprise, ce projet représente :
 - Un projet valorisable sur mon CV et lors d’entretiens
 
 Contact
+
 Si vous avez des suggestions, conseils, remarques, ou si vous souhaitez me proposer des pistes d’amélioration ou d’autres idées de projets, je serais très heureux de les recevoir ! 
+
 Je suis ouvert aux retours et conseils pour progresser.  
 
 Merci d’avance pour votre temps !
@@ -66,5 +68,6 @@ LinkedIn: https://www.linkedin.com/in/mohamed-anlinourdine-003408308/
 E-mail : mohamed.anlin244@gmail.com
 
 Licence
+
 Ce projet est publié à des fins d’apprentissage.  
 
