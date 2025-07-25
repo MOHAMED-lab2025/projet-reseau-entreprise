@@ -61,9 +61,10 @@ Merci d’avance pour votre temps !
 
 Mohamed Anlinourdine
 
-LinkedIn :https://www.linkedin.com/in/mohamed-anlinourdine-003408308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+LinkedIn: https://www.linkedin.com/in/mohamed-anlinourdine-003408308/
 
 E-mail : mohamed.anlin224@gmail.com
+
 Licence
 Ce projet est publié à des fins d’apprentissage.  
 
